@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "wrath3",
+		"player1": "Ace",
+		"player2": "retro",
+		"player3": "sakugf",
+		"events": [
+			[
+				24000.0,
+				[
+					[
+						"Change Character",
+						"1",
+						"retro2"
+					]
+				]
+			],
+			[
+				23000.0,
+				[
+					[
+						"",
+						1,
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "sakugf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "satisfracture-remix"
+	}
+}
